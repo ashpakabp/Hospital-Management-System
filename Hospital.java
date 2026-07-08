@@ -1,4 +1,3 @@
-
 package com.hospital;
 import java.util.*;
 public class Hospital{
