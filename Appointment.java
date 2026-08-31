@@ -4,5 +4,7 @@ public class Appointment {
     public Appointment(Patient p,Doctor d,String date){
         this.patient=p;this.doctor=d;this.date=date;
     }
-    public String toString(){return patient.getName()+" -> "+doctor+" on "+date;}
+    public String toString(){return patient.getName()+" -> "+doctor+" on "+date;
+                            
+}
 }
