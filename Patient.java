@@ -5,5 +5,6 @@ public class Patient {
     public int getId(){return id;}
     public String getName(){return name;}
     public int getAge(){return age;}
-    public String toString(){return id+" - "+name+" ("+age+")";}
+    public String toString(){return id+" - "+name+" ("+age+")";
+}
 }
