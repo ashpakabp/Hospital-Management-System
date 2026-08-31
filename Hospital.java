@@ -9,5 +9,6 @@ public class Hospital{
     public void bookAppointment(Appointment a){appointments.add(a);}
     public void showPatients(){patients.forEach(System.out::println);}
     public void showDoctors(){doctors.forEach(System.out::println);}
-    public void showAppointments(){appointments.forEach(System.out::println);}
+    public void showAppointments(){appointments.forEach(System.out::println);
+    }
 }
