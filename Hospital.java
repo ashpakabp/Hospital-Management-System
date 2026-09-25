@@ -1,4 +1,4 @@
-abcd abcd package com.hospital;
+package com.hospital;
 import java.util.*;
 public class Hospital{
     private List<Patient> patients=new ArrayList<>();
