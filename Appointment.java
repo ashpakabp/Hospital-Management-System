@@ -1,6 +1,6 @@
-package com.hospital;
+aassaa package com.hospital;
 public class Appointment {
-    private Patient patient; private Doctor doctor; private String date;
+    private Patient patient; private Doctor doctor; private String date;aas
     public Appointment(Patient p,Doctor d,String date){
         this.patient=p;this.doctor=d;this.date=date;
     }
