@@ -1,4 +1,4 @@
-package com.hospital;
+aaaasaaapackage com.hospital;
 public class Appointment {
     private Patient patient; private Doctor doctor; private String date;aas
     public Appointment(Patient p,Doctor d,String date){
